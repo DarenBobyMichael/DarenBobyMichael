@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate FrontEnd developer
 
 **About me**
 
-- ❤️ I love writing codes, and building fun experiments on type-level
+- ❤️ I love writing codes, and building fun experiments
 
 
 <code><img height="20" alt="html" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png"></code>

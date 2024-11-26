@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer
+Tinker Engineer.
 
 **About me**
 
-- ❤️Love making silicon rocks think ;)
+- ❤️ Love making silicon rocks think ;)
 
 
 
